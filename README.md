@@ -270,3 +270,5 @@ After deploying Kibana, you can access it via the NodePort. Use kubectl get svc 
 
 Open the Kibana UI in your browser, and configure an index pattern to start visualizing logs.
 
+
+
